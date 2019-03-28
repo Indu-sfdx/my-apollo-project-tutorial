@@ -1,2 +1,2 @@
 # my-apollo-project-tutorial
-Test for Apollo based on https://github.com/apollographql/fullstack-tutorial
+My test project using Apollo based on https://github.com/apollographql/fullstack-tutorial
